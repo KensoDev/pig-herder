@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="pig-herder">
+    <output-path>$PROJECT_DIR$/out/artifacts/pig_herder</output-path>
+    <root id="archive" name="pig-herder.jar">
+      <element id="module-output" name="main" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/internal_libs/date-extractor.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
